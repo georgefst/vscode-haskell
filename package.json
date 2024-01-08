@@ -45,6 +45,10 @@
           "Haskell",
           "haskell"
         ],
+        "icon": {
+          "dark": "images/hls-logo.png",
+          "light": "images/hls-logo.png"
+        },
         "extensions": [
           ".hs"
         ]
@@ -55,6 +59,10 @@
           "Literate Haskell",
           "literate Haskell"
         ],
+        "icon": {
+          "dark": "images/hls-logo.png",
+          "light": "images/hls-logo.png"
+        },
         "extensions": [
           ".lhs"
         ]
